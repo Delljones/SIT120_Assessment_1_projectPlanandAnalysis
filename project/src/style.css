@@ -3,13 +3,11 @@ body {margin:0;}
   overflow: hidden;
   position: sticky;
   top: 0;
-  width: 100%;
+
   padding: 0.3%;
   font-weight: bolder;
   font-style: oblique;
-  
 }
-
 .navbar a {
   float: left;
   display: block;
@@ -18,33 +16,26 @@ body {margin:0;}
   padding: 1%;
   text-decoration: none;
   font-size: 40pt;
-  
-  
 }
 
 .navbar a:hover {
   background: #ddd;
   color: black;
 }
-
 form { 
   margin: 1cm;
   height: 5cm;
-
 }
-
-
 
 div {
   background-color: black;
   padding: 1%;
   text-align: center;
-  font-size: 50pt;
+  font-size: 10pt;
   color: white;
   font-family: Trebuchet MS;
 
 }
-
 .main {
   background-color: black;
 }
